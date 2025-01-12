@@ -3,7 +3,7 @@
 #### Stage Name: Artanisax
 
 
-### DJ Set
+### DJ Sets
 
 [SoundCloud] https://soundcloud.com/artanisax/sets/artanisax-radio
 
@@ -16,11 +16,11 @@
 - Flux: Carnival Prelude @ SUSTech
 
 
-### Mashup for **FL Crew**'s performance in **Nike College Street Dance League**:
+### Mashups for **FL Crew**'s performance in **Nike College Street Dance League**:
 
 - 2024: https://www.bilibili.com/video/BV1ZXr7YREv7
 
-- 2023: https://www.bilibili.com/video/BV1mw411t7Mw/
+- 2023: https://www.bilibili.com/video/BV1mw411t7Mw
 
 
 ### Misc
