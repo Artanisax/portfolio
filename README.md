@@ -25,6 +25,6 @@
 
 ### Misc
 
-Some game music appreciation clip translation and music-related memes.
+Some game music appreciation clip translations and music-related memes.
 
 [Bilibili] https://space.bilibili.com/155108168
