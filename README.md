@@ -11,9 +11,9 @@
 
 - Purge: Open Deck @ Phono Records 4 Years Anniversary, 01/05/2025
 
-- Memoirs Shuttle: Club Activity @ Astro Rave Club, SUSTech
+- Memoirs Shuttle: Club Activity @ Astro Rave Club, SUSTech, 12/23/2024
 
-- Flux: Carnival Prelude @ SUSTech
+- Flux: Carnival Prelude @ SUSTech, 10/21/2024
 
 
 ### Mashups for **FL Crew**'s performance in **Nike College Street Dance League**:
@@ -25,6 +25,6 @@
 
 ### Misc
 
-Some game music appreciation clip translations and music-related memes.
+Some game music appreciation clip translations and music-related memes:
 
 [Bilibili] https://space.bilibili.com/155108168
