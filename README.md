@@ -7,8 +7,6 @@
 
 [SoundCloud] https://soundcloud.com/artanisax/sets/artanisax-radio
 
-[NetEase Music] https://music.163.com/djradio?id=997477780&uct2=U2FsdGVkX1
-
 - **Purge**: Open Deck @ Phono Records 4 Years Anniversary, 01/05/2025
 
   A 16 minutes long set of BPM around 174, covering Drum & Bass, Neuro Funk, and Color Bass 
