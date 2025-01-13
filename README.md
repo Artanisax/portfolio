@@ -17,7 +17,7 @@
 
 ### Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
 
-- 2023: https://www.bilibili.com/video/BV1mw411t7Mw
+- If I Ain't Got You, 2023: [Bilibili] https://www.bilibili.com/video/BV1mw411t7Mw
 
   I uses FL Studio's stem extraction function to seperate vocals and different instruments. I leveraged these stems to produce compact versions of two songs and wrote a drum fill and created SFXs for transitions linking two tracks (1'25'' and 2'49'' in the video, specifically).
 
