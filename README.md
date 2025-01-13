@@ -3,7 +3,7 @@
 #### Stage Name: Artanisax
 
 
-### DJ Sets
+### (Audio) DJ Sets
 
 [SoundCloud] https://soundcloud.com/artanisax/sets/artanisax-radio
 
@@ -15,13 +15,15 @@
 
   A 39 minutes long set of BPM around 145, covering Melodic Dubstep, Brostep, Synthwave, EDM Techno, and Progressive Trance
 
-### Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
+### (Vedio) Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
 
-- If I Ain't Got You, 2023: [Bilibili] https://www.bilibili.com/video/BV1mw411t7Mw
+- **If I Ain't Got You**, 2023: [Bilibili] https://www.bilibili.com/video/BV1mw411t7Mw
 
-  I uses FL Studio's stem extraction function to seperate vocals and different instruments. I leveraged these stems to produce compact versions of two songs and wrote a drum fill and created SFXs for transitions linking two tracks (1'25'' and 2'49'' in the video, specifically).
+  Communicating with choreographer, I used FL Studio's stem extraction function to seperate vocals and different instruments and then leveraged these stems to produce compact versions of two songs and wrote a drum fill and created SFXs for transitions linking two tracks (1'25'' and 2'49'' in the video, specifically).
 
-### 
+### Writing Samples
+
+### Source Codes
 
 ### Misc
 
