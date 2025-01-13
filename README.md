@@ -11,7 +11,7 @@
 
   A 16 minutes long set of BPM around 174, covering Drum & Bass, Neuro Funk, and Color Bass 
 
-- **Memoirs Shuttle**: Club Activity @ Astro Rave, SUSTech, 12/23/2024
+- **Memoirs Shuttle**: Club Activity @ Astro Rave, SUSTech, 12/23/2023
 
   A 39 minutes long set of BPM around 145, covering Melodic Dubstep, Brostep, Synthwave, EDM Techno, and Progressive Trance
 
