@@ -15,7 +15,7 @@
 
   A 39 minutes long set of BPM around 145, covering Melodic Dubstep, Brostep, Synthwave, EDM Techno, and Progressive Trance
 
-### (Vedio) Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
+### (Video) Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
 
 - **If I Ain't Got You**, 2023: [Bilibili] https://www.bilibili.com/video/BV1mw411t7Mw
 
