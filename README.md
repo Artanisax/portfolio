@@ -19,14 +19,18 @@
 
 - **If I Ain't Got You**, 2023: [Bilibili] https://www.bilibili.com/video/BV1mw411t7Mw
 
-  Communicating with choreographer, I used FL Studio's stem extraction function to seperate vocals and different instruments and then leveraged these stems to produce compact versions of two songs and wrote a drum fill and created SFXs for transitions linking two tracks (1'25'' and 2'49'' in the video, specifically).
+  Communicating with the choreographer, I used FL Studio's stem extraction function to seperate vocals and different instruments and then leveraged these stems to produce compact versions of two songs and wrote a drum fill and created SFXs for transitions linking two tracks (1'25'' and 2'49'' in the video, specifically).
 
 ### Writing Samples
 
+I have two submitted papers in ML domain can serve as writing samples.
+
 ### Source Codes
+
+I have encountered both hardware-level & software-level programming in my course projects.
 
 ### Misc
 
-Some game music appreciation clip translations and music-related memes:
+Some game music appreciation clip translations (ENG to CHS) and music-related memes:
 
 [Bilibili] https://space.bilibili.com/155108168
