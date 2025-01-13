@@ -23,11 +23,11 @@
 
 ### Writing Samples
 
-I have two submitted papers in ML domain can serve as writing samples.
+I have two submitted papers in ML domain that can serve as writing samples:
 
 ### Source Codes
 
-I have encountered both hardware-level & software-level programming in my course projects.
+I have encountered both hardware-level & software-level programming in my course projects:
 
 ### Misc
 
