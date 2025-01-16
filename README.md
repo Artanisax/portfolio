@@ -37,11 +37,11 @@ I have two submitted papers in Machine Learning domain that can serve as writing
 
 I have encountered both hardware-level & software-level programming in my course projects:
 
-- [Hardware-level]: https://github.com/IceLocke/CS214-Minisys-CPU
+- [Hardware-level] https://github.com/IceLocke/CS214-Minisys-CPU
   
   Based on Verilog, we implemented a single cycle CPU which can run on Minisys development board. It support basic arithmetic/logic instructions, interuptions, and can accept external number keyboard as inputs. This is a team course project of CS214: Computer Organization (H), and all members contributed equally.
 
-- [Softawre-level]: https://github.com/GanLiuuuu/xllama-client, https://github.com/GanLiuuuu/xllama-server, https://github.com/Artanisax/LLMServer
+- [Softawre-level] https://github.com/GanLiuuuu/xllama-client, https://github.com/GanLiuuuu/xllama-server, https://github.com/Artanisax/LLMServer
 
   (These 3 repositories work together) Based on Java, JaveScript, Vue, Python, and MySQL, we implemented an anterior and posterior end seperated webpage service of Large Language Model chat bots. It supports: account management, incentive system, multimodality communication, bot configuration, and finetuning. This is a team course project of CS309: Object-oriented Analysis and Design, and all members contributed equally.
 
