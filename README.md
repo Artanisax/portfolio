@@ -31,7 +31,7 @@ I have two submitted papers in Machine Learning domain that can serve as writing
 
 - [Self-Comparison for Dataset-Level Membership Inference in Large (Vision-)Language Models](https://arxiv.org/abs/2410.13088)
   
-  In this project we proposed a novel dataset-level membership inference attack method. Inspired by datapoint-level neighborhood attack, I came up with the rudiment of "Self Comparison" and chose p-value as the threshold; my collaborator further extended the idea by "Half Comparison", leveraging conditional distribution to boost effectiveness. Our method demostrates more feasibility in practical compared to exsisting dataset-level MIA methods and surpasses them in performance.
+  In this project we proposed a novel dataset-level membership inference attack method. Inspired by datapoint-level neighborhood attack, I came up with the rudiment of "Self Comparison" and chose p-value as the threshold; my collaborator further extended the idea by "Half Paraphrasing", leveraging conditional distribution to boost effectiveness. Our method demostrates more feasibility in practical compared to exsisting dataset-level MIA methods and surpasses them in performance. I am the second author of the paper.
 
 ### Source Codes
 
