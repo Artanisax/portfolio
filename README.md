@@ -39,6 +39,6 @@ I have encountered both hardware-level & software-level programming in my course
 
 ### Misc
 
-Some game music appreciation clip translations (ENG to CHS) and music-related memes:
+I volunteer to do some game music appreciation clip translations (ENG to CHS, with permission from the original poster) and produce music-related memes:
 
 [Bilibili] https://space.bilibili.com/155108168
