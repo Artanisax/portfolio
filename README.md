@@ -9,11 +9,11 @@
 
 - **Purge**: Open Deck @ Phono Records 4 Years Anniversary, 01/05/2025
 
-  A 16 minutes long set of BPM around 174, covering Drum & Bass, Neuro Funk, and Color Bass 
+  A 16 minute-long set of BPM around 174, covering Drum & Bass, Neuro Funk, and Color Bass 
 
 - **Memoirs Shuttle**: Club Activity @ Astro Rave, SUSTech, 12/23/2023
 
-  A 39 minutes long set of BPM around 145, covering Melodic Dubstep, Brostep, Synthwave, EDM Techno, and Progressive Trance
+  A 39 minute-long set of BPM around 145, covering Melodic Dubstep, Brostep, Synthwave, EDM Techno, and Progressive Trance
 
 ### (Video) Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
 
