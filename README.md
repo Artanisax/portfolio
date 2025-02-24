@@ -2,6 +2,10 @@
 
 #### Stage Name: Artanisax
 
+### Composition
+
+I am still learning and here is some pieces I produced during practice.
+[SoundCloud] https://soundcloud.com/artanisax/composition-harmonic-minor-secondary-dominant-transposition
 
 ### (Audio) DJ Sets
 
