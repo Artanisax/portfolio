@@ -5,11 +5,12 @@
 ### Composition
 
 I am still learning and here is some pieces I produced during practice.
-[SoundCloud] https://soundcloud.com/artanisax/composition-harmonic-minor-secondary-dominant-transposition
+
+[SoundCloud](https://soundcloud.com/artanisax/sets/practice/s-Slxle255Pul?si=7d4242adf5a54731af779a61423daa07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ### (Audio) DJ Sets
 
-[SoundCloud] https://soundcloud.com/artanisax/sets/artanisax-radio
+[SoundCloud](https://soundcloud.com/artanisax/sets/artanisax-radio)
 
 - **Purge**: Open Deck @ Phono Records 4 Years Anniversary, 01/05/2025
 
@@ -21,7 +22,7 @@ I am still learning and here is some pieces I produced during practice.
 
 ### (Video) Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
 
-- **If I Ain't Got You**, 2023: [Bilibili] https://www.bilibili.com/video/BV1mw411t7Mw
+- **If I Ain't Got You**, 2023: [Bilibili](https://www.bilibili.com/video/BV1mw411t7Mw)
 
   Communicating with the choreographer, I used FL Studio's stem extraction function to seperate vocals and different instruments. Then I leveraged these stems to produce compact versions of two songs and wrote a drum fill and created SFXs for transitions linking two tracks (1'25'' and 2'49'' in the video, specifically).
 
@@ -55,4 +56,4 @@ I have encountered both hardware-level & software-level programming in my course
 
 I volunteer to do some game music appreciation clip translations (ENG to CHS, with permission from the original poster) and produce music-related memes:
 
-[Bilibili] https://space.bilibili.com/155108168
+[Bilibili](https://space.bilibili.com/155108168)
