@@ -28,9 +28,11 @@ I am still learning and here is some pieces I produced during practice.
 
 ### Writing Samples
 
-I have two submitted papers in Machine Learning domain that can serve as writing samples:
+I have two papers in Machine Learning domain that can serve as writing samples:
 
 - [Six-CD: Benchmarking Concept Removals for Benign Text-to-image Diffusion Models](https://arxiv.org/abs/2406.14855)
+
+  **[Update 02/27/2025] This paper has been accepted to CVPR 2025 (acceptance rate: 22.1%).**
   
   This is a benchmarking project for evaluating State-of-Art text-to-image diffusion concept removal methods. We first crafted a comprehensive datasets spliting test prompts into six categories. Then I proposed a novel metric "In-prompt Retainability" to evaluate methods' ability to express irrelevant concepts when removals are triggered and we craft anothor corresponding dataset. I am the co-first author of this paper.
 
