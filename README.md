@@ -6,7 +6,9 @@
 
 I am still learning and here is some pieces I produced during practice.
 
-[SoundCloud](https://soundcloud.com/artanisax/sets/practice/s-Slxle255Pul?si=7d4242adf5a54731af779a61423daa07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+MyBest: [SoundCloud](https://soundcloud.com/artanisax/first-trial-on-orchestra/s-FyfPPnEUBL2?in=artanisax/sets/practice/s-Slxle255Pul&si=524478e3871f4c62ad764f5ce03d9487&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+List: [SoundCloud](https://soundcloud.com/artanisax/sets/practice/s-Slxle255Pul?si=7d4242adf5a54731af779a61423daa07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ### (Audio) DJ Sets
 
