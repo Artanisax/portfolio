@@ -6,7 +6,7 @@
 
 I am still learning and here is some pieces I produced during practice.
 
-**MyBest**: [SoundCloud](https://soundcloud.com/artanisax/title-page-first-trial-on-orchestra/s-KdHJcBnuSCb?in=artanisax/sets/practice/s-Slxle255Pul&si=51d170a9bb34407cabcdae53e961e5a6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+**MyBest**: [SoundCloud](https://on.soundcloud.com/Et9Kpyb7UHqUDotg7)
 
 The Whole List: [SoundCloud](https://soundcloud.com/artanisax/sets/practice/s-Slxle255Pul?si=7d4242adf5a54731af779a61423daa07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
