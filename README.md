@@ -10,7 +10,7 @@ I am still learning and here is some pieces I produced during practice.
 
 The Whole List: [SoundCloud](https://soundcloud.com/artanisax/sets/practice/s-Slxle255Pul?si=7d4242adf5a54731af779a61423daa07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
-### (Audio) DJ Sets
+### DJ Sets
 
 [SoundCloud](https://soundcloud.com/artanisax/sets/artanisax-radio)
 
@@ -22,7 +22,7 @@ The Whole List: [SoundCloud](https://soundcloud.com/artanisax/sets/practice/s-Sl
 
   A 39 minute-long set of BPM around 145, covering Melodic Dubstep, Brostep, Synthwave, EDM Techno, and Progressive Trance
 
-### (Video) Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
+### Mashups for **FL Crew**'s Performances in **Nike College Street Dance League**
 
 - **If I Ain't Got You**, 2023: [Bilibili](https://www.bilibili.com/video/BV1mw411t7Mw)
 
