@@ -6,19 +6,19 @@
 
 I am still learning and here is some pieces I produced during practice.
 
-- [_Title Page_](https://on.soundcloud.com/Et9Kpyb7UHqUDotg7): Small Orchestration
+- [**Title Page**](https://on.soundcloud.com/Et9Kpyb7UHqUDotg7): Small Orchestration
 
-- [_Not Yet_](https://on.soundcloud.com/RYmUVN2MLqFy28mc6): Fusion, 4/4 + 7/8 Beats
+- [**Not Yet**](https://on.soundcloud.com/RYmUVN2MLqFy28mc6): Fusion, 4/4 + 7/8 Beats
 
 ### DJ Sets
 
 [SoundCloud](https://soundcloud.com/artanisax/sets/artanisax-radio)
 
-- _Purge_: Open Deck @ Phono Records 4 Years Anniversary, 01/05/2025
+- **Purge**: Open Deck @ Phono Records 4 Years Anniversary, 01/05/2025
 
-  A 16 minute-long set of BPM around 174, covering Drum & Bass, Neuro Funk, and Color Bass 
+  A 16 minute-long set of BPM around 174, covering Drum & Bass, Neuro Funk, and Color Bass
 
-- _Memoirs Shuttle_: Club Activity @ Astro Rave, SUSTech, 12/23/2023
+- **Memoirs Shuttle**: Club Activity @ Astro Rave, SUSTech, 12/23/2023
 
   A 39 minute-long set of BPM around 145, covering Melodic Dubstep, Brostep, Synthwave, EDM Techno, and Progressive Trance
 
