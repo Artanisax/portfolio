@@ -8,7 +8,7 @@ I am still learning and here is some pieces I produced during practice.
 
 [_Title Page_](https://on.soundcloud.com/Et9Kpyb7UHqUDotg7): Small Orchestration
 
-[_Not Yet_](https://on.soundcloud.com/RYmUVN2MLqFy28mc6): Fusion, 7/4 Beat
+[_Not Yet_](https://on.soundcloud.com/RYmUVN2MLqFy28mc6): Fusion, 4/4 + 7/8 Beats
 
 ### DJ Sets
 
