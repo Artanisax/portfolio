@@ -6,9 +6,9 @@
 
 I am still learning and here is some pieces I produced during practice.
 
-**MyBest**: [SoundCloud](https://on.soundcloud.com/Et9Kpyb7UHqUDotg7)
+[_Title Page_](https://on.soundcloud.com/Et9Kpyb7UHqUDotg7): Small Orchestration
 
-The Whole List: [SoundCloud](https://soundcloud.com/artanisax/sets/practice/s-Slxle255Pul?si=7d4242adf5a54731af779a61423daa07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[_Not Yet_](https://on.soundcloud.com/RYmUVN2MLqFy28mc6): Fusion, 7/4 Beat
 
 ### DJ Sets
 
