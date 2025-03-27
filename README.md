@@ -4,11 +4,13 @@
 
 ### Composition
 
-I am still learning and here is some pieces I produced during practice.
+I am still learning and here are some pieces I produced during practice.
 
-- [**Title Page**](https://on.soundcloud.com/Et9Kpyb7UHqUDotg7): Small Orchestration
+[SoundCloud](https://on.soundcloud.com/hWzJmzspnajo9RWT8)
 
-- [**Not Yet**](https://on.soundcloud.com/RYmUVN2MLqFy28mc6): Fusion, 4/4 + 7/8 Beats
+- **Title Page**: Small Orchestration
+
+- **Not Yet**: Fusion, 4/4 + 7/8 Beats
 
 ### DJ Sets
 
